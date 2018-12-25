@@ -10,21 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "checkUser": {
-    "name": "Nguyen Van A",
-    "age": 35
-  },
-  "getUser": {
-    "name": "Nguyen Van A",
-    "age": 35
-  },
-  "createUser": {
-    "name": "Nguyen Van A",
-    "age": 35
-  },
-  "notifyUserLogin": {
-    "name": "Nguyen Van A",
-    "age": 35
   }
 }
